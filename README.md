@@ -11,8 +11,6 @@
 - [Models](#models)
 - [Results](#results)
 - [Conclusions](#conclusions)
-- [Contributors](#contributors)
-- [Acknowledgments](#acknowledgments)
 
 ## About
 
